@@ -1,0 +1,15 @@
+url,title,budget_min,budget_max,currency,category,skills,region,duration,applicants,date,pain_signals,content
+https://www.wishket.com/project/138918/,구글 스프레드시트 기반 영업 및 물류 통합 관리 시스템,,,KRW,웹,Google Sheets;Google Apps Script,,,,,통합관리;물류센터;영업팀;구매팀;데이터공유,"구글 스프레드시트 기반으로 영업 및 물류 팀이 함께 사용할 통합 관리 시스템 구축. 물류센터, 구매팀, 영업팀이 동일한 시트에서 필요한 정보를 접근할 수 있도록 구성."
+https://www.wishket.com/project/10693/,물류서비스 안드로이드 및 iOS 앱 서비스 구축,,,KRW,앱,Android;iOS,,,,,물류서비스;모바일앱;Android;iOS,물류 서비스를 위한 안드로이드 및 iOS 앱 서비스 구축 프로젝트.
+https://www.wishket.com/project/134192/,"매칭 및 물류 부자재 구매 Android, iOS 앱 디자인, 개발",,,KRW,앱,Android;iOS,,,,,택배매칭;물류부자재;구매플랫폼;앱디자인,"택배(물류) 매칭 및 물류 부자재 구매를 위한 Android, iOS 앱 디자인 및 개발 프로젝트."
+https://www.wishket.com/project/128097/,"택배(물류) 매칭 및 물류 부자재 구매 Android, iOS 앱 구축",,,KRW,앱,Android;iOS,,,,,택배매칭;물류부자재;구매앱;앱구축,"택배(물류) 매칭 및 물류 부자재 구매를 위한 Android, iOS 앱 구축 프로젝트."
+https://www.wishket.com/project/142417/,물류자동화 위치관제 대시보드 UI 개선,,,KRW,웹,UI/UX;Dashboard;AMR;AGF,,,,,물류자동화;AMR;AGF;대시보드;위치관제;UI개선;자율주행로봇,공장 물류를 자동화하기 위한 AMR/AGF(자율주행 물류로봇/무인지게차)를 사용하여 구축된 시스템의 위치관제 대시보드 UI 개선 프로젝트.
+https://www.wishket.com/project/130140/,물류 대행 시스템 개발 및 아마존 API 연동,,,KRW,웹,Amazon API;물류시스템,,,,,물류대행;아마존셀러;해외배송;API연동;한국발송,미국 아마존 셀러들이 한국에서 해외 배송할 때 사용하는 물류 대행 시스템 개발 및 아마존 API 연동 프로젝트.
+https://www.wishket.com/project/119957/,배송정보 입력 물류 플랫폼 구축(상주 필요),,,KRW,웹,웹개발;모바일개발,,,,,배송정보;물류플랫폼;상주개발;웹모바일,배송 정보 입력이 가능한 물류 플랫폼 구축 프로젝트. 웹/모바일 지원 필요. 상주 개발자 필요.
+https://www.wishket.com/project/123068/,Flutter 기반 물류 운전자 및 상차 모바일 앱 개발,,,KRW,앱,Flutter;Android;iOS,,,,,물류운전자;상차관리;컨테이너화물;화물앱;물류사;화주연결,컨테이너 기반 화물 배송을 위해 물류사와 화주를 연결하고 운전자가 화물 상하차를 관리하는 Flutter 기반 모바일 앱 개발. 운전자 앱 포함.
+https://www.wishket.com/project/38379/,몽골에서 사용될 POS 및 물류 시스템 구축,,,KRW,웹,POS;ERP;WMS,몽골,,,,POS;WMS;물류ERP;해외시스템;몽골;창고관리,"몽골에서 사용될 POS 시스템, 창고관리(WMS), 물류 ERP 등 종합 물류 시스템 구축 프로젝트."
+https://www.wishket.com/project/152801/,SAP ERP 연동 물류 자동화 및 Windows 바코드 스캔 시스템 구축,,,KRW,웹,SAP ERP;바코드스캔;Windows;CJ대한통운,,,,,SAP연동;물류자동화;바코드;수출검증;CJ대한통운;ERP,"SAP ERP와 CJ 대한통운 시스템을 연동하고, 물류 현장 PC에 연결된 바코드 스캐너로 자동화된 수출 검증 처리를 구현하는 Windows 기반 시스템 구축."
+https://www.wishket.com/project/147499/,CJ 대한통운 택배 접수 API 연동 개발,,,KRW,웹,API;CJ대한통운;바코드,,,,,CJ대한통운;택배접수;API연동;운송장출력;자동화;수동작업개선,CJ 대한통운 택배 접수 API 연동으로 택배 접수 및 운송장 출력 자동화 개발. 기존 수동 작업을 바코드 스캔 연동으로 자동화.
+https://www.wishket.com/project/1116/,화물배차 웹과 앱 제작,,,KRW,웹/앱,웹개발;앱개발,,,,,화물배차;물류관리;웹앱제작,화물 배차 관리를 위한 웹과 앱 제작 프로젝트.
+https://www.wishket.com/project/152139/,반도체 및 물류 전문 기업 공식 홈페이지 구축,,,KRW,웹,웹개발;홈페이지,,,,,홈페이지구축;반도체;물류기업;채용시스템,반도체 및 물류 전문 기업의 공식 홈페이지 및 채용 시스템 구축 프로젝트.
+https://www.wishket.com/project/64855/,Spring 기반 물류 관리 시스템 고도화 기능 개발,,,KRW,웹,Spring;Java;물류관리시스템,,,,,물류관리;주문관리;배송관리;상품관리;고도화;Spring,"Spring 기반 내부 물류 관리 앱 시스템의 고도화 기능 개발. 주문 관리, 배송 관리, 상품 관리 메뉴 포함."
