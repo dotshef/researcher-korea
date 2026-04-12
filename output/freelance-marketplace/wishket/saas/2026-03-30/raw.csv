@@ -1,0 +1,9 @@
+﻿url,title,budget_min,budget_max,currency,category,skills,region,duration,applicants,date,pain_signals,content
+https://www.wishket.com/project/144987/,쿠팡 셀러용 통합 관리 SaaS 플랫폼 구축,5000,8000,KRW,웹,웹개발;플랫폼;데이터분석;SaaS,,180일,48,,통합관리;셀러관리;매출데이터분석;운영효율화,"쿠팡 셀러를 위한 웹 기반 통합 관리 SaaS 솔루션. 매출 데이터 분석 및 운영 효율화를 목표로 하는 플랫폼 구축 프로젝트. 예산 약 8천만원, 180일 일정, 48명 지원."
+https://www.wishket.com/project/140253/,SaaS 개발사/구매자 중개 플랫폼 구축,,,KRW,웹,웹개발;플랫폼;SaaS;중개플랫폼,,6개월,,,중개플랫폼;SaaS마켓플레이스;견적요청,"SaaS 개발사가 서비스를 소개하고 구매자가 견적을 요청할 수 있는 SaaS 마켓플레이스 홈페이지 구축. 2025년 초 착수 예정, 6개월 내 런칭 목표."
+https://www.wishket.com/project/152055/,인프라 비용 절감을 위한 AWS 아키텍처 다운사이징 및 Java 백엔드 경량화,,,KRW,웹,AWS;Java;백엔드;인프라;SaaS,,,,,비용절감;아키텍처최적화;경량화;다운사이징,인프라 비용 절감을 위한 AWS 아키텍처 다운사이징 및 Java 백엔드 경량화 프로젝트. SaaS 서비스의 운영 비용 최적화 목적.
+https://www.wishket.com/project/104632/,SaaS 형 커머스 서비스 API 개선 및 신규 기능 구현,,,KRW,웹,API;커머스;SaaS;백엔드,,,,,API개선;신규기능;커머스;서비스고도화,SaaS 형 커머스 서비스의 API 개선 및 신규 기능 구현 프로젝트. 기존 커머스 SaaS 플랫폼의 기능 확장 및 성능 개선.
+https://www.wishket.com/project/120480/,업무관리 툴(B2B SaaS) 시스템 디자인,,,KRW,디자인,UI/UX;시스템디자인;B2B;SaaS,,,,,B2B;업무관리;시스템디자인;초기스타트업,"일정, 노트, 업무 관리를 통합한 B2B SaaS 업무관리 툴의 시스템 디자인. 초기 스타트업 팀에서 개발 중인 프로젝트."
+https://www.wishket.com/project/116575/,클라우드 기반 SaaS 시스템 관리자 웹 페이지 및 서버 구축,,,KRW,웹,클라우드;SaaS;서버;관리자페이지;웹개발,,,,,관리자페이지;클라우드;금형산업;소프트웨어솔루션,금형 산업을 위한 클라우드 기반 SaaS 시스템의 관리자 웹 페이지 및 서버 구축 프로젝트. 다양한 소프트웨어 솔루션 포함.
+https://www.wishket.com/project/131519/,MSSQL + Classic ASP 개발 및 유지보수,,,KRW,웹,MSSQL;ASP;유지보수,,,,,유지보수;레거시시스템,MSSQL + Classic ASP 기반 시스템 개발 및 유지보수 프로젝트. SaaS 관련 검색 결과로 노출.
+https://www.wishket.com/project/133048/,LLM 기반 서비스 Frontend 개발,,,KRW,웹,LLM;프론트엔드;AI;SaaS,,,,,LLM;AI서비스;프론트엔드개발,LLM 기반 서비스의 프론트엔드 개발 프로젝트. AI/SaaS 서비스 관련.

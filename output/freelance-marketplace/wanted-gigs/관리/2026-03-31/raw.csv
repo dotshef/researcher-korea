@@ -1,0 +1,16 @@
+﻿url,title,budget_min,budget_max,currency,category,skills,region,duration,applicants,date,pain_signals,content
+https://www.wanted.co.kr/gigs/projects/7877,[SK플래닛][주 2회 재택] 시스템 운영 프리랜서 채용,600,700,KRW,시스템 운영,Allscripts,상주,6개월,,,시스템 운영;프리랜서 채용;재택,"SK플래닛 시스템 운영 프리랜서 채용. 주 2회 재택 가능. 예상 금액 월 600-700만원, 6개월 기간."
+https://www.wanted.co.kr/gigs/projects/6928,단기 알바 매칭 플랫폼 하자보수 관리,,,KRW,웹 개발,Firebase;Node.js,원격/상주,,,,하자보수;관리;매칭 플랫폼,"단기 알바 매칭 플랫폼의 하자보수 관리 프로젝트. Firebase, Node.js 기술 스택 사용."
+https://www.wanted.co.kr/gigs/projects/10491,앱 백엔드개발자,,,KRW,백엔드 개발,Node.js,원격/상주,,,,백엔드;앱 개발,앱 백엔드 개발자 모집. Node.js 기술 스택 필요.
+https://www.wanted.co.kr/gigs/projects/10207,Keycloak 계정 연동 작업,,,KRW,백엔드 개발,Java;Kotlin,상주,,,,계정 연동;Keycloak;관리,"Keycloak 계정 연동 작업. Java, Kotlin 기술 스택 필요."
+https://www.wanted.co.kr/gigs/projects/8571,2차전지 SW개발 및 유지보수,,,KRW,SW 개발,C#;C++,원격/상주,,,,유지보수;SW개발;2차전지,"2차전지 SW개발 및 유지보수 프로젝트. C#, C++ 기술 스택 사용."
+https://www.wanted.co.kr/gigs/projects/11210,(청라) 정보보호모니터링시스템 개발(오픈소스기반)(SI),600,850,KRW,SI,Git;AngularJS;React;VueJS;CSS;HTML;JavaScript,상주/인천 청라,7개월,,,정보보호;모니터링;시스템 관리;SI,"청라 소재 정보보호 모니터링 시스템 개발(오픈소스 기반 SI). 프론트엔드 개발자 역할. 예상 금액 월 600-850만원, 7개월 기간. Git, AngularJS, React, VueJS, CSS, HTML, JavaScript 스킬 필요."
+https://www.wanted.co.kr/gigs/projects/5986,모바일 앱 (iOS/Android) QA 테스트,,,KRW,QA,QA 엔지니어링;JIRA,원격/상주,,,,QA;테스트;품질 관리,"모바일 앱 (iOS/Android) QA 테스트 프로젝트. QA 엔지니어링, JIRA 스킬 필요."
+https://www.wanted.co.kr/gigs/projects/8397,(원격+주1회 오프라인미팅) 카페24 스토어내 일본결제 PG모듈 연동,,,KRW,웹 개발,JavaScript,원격,,,,PG모듈;결제 연동;카페24;관리,카페24 스토어 내 일본결제 PG모듈 연동 프로젝트. 원격 근무 + 주 1회 오프라인 미팅. JavaScript 스킬 필요.
+https://www.wanted.co.kr/gigs/projects/7365,삼성전자 자회사 TC시스템 운영 및 유지보수,,,KRW,시스템 운영,Java;Oracle Database,상주,,,,시스템 운영;유지보수;관리,"삼성전자 자회사 TC시스템 운영 및 유지보수 프로젝트. Java, Oracle Database 스킬 필요."
+https://www.wanted.co.kr/gigs/projects/11694,인사 시스템 ERP 개발 - 프론트엔드,400,800,KRW,프론트엔드 개발,ERP;Git;React;TypeScript,상주/강남 신사동,18개월,,,인사 관리;ERP;시스템 개발,"인사 시스템 ERP 개발 프론트엔드. 강남 신사동 상주. 예상 금액 월 400-800만원, 18개월 기간. ERP, Git, React, TypeScript, 반응형 웹 스킬 필요."
+https://www.wanted.co.kr/gigs/projects/9728,[재택 병행 가능] 웹 퍼블리싱 개발 작업,250,450,KRW,퍼블리싱,CSS;HTML;CSS3;Figma,원격/상주,2개월,,,퍼블리싱;웹 개발;관리,"재택 병행 가능한 웹 퍼블리싱 개발 작업. 예상 금액 월 250-450만원, 2개월 기간. CSS, HTML, CSS3, Figma 스킬 필요."
+https://www.wanted.co.kr/gigs/projects/11185,영상 편집 프로그램 개발(웹),,,KRW,웹 개발,React.js,원격/상주,,,,영상 편집;프로그램 개발;콘텐츠 관리,영상 편집 프로그램 웹 개발 프로젝트. React.js 스킬 필요.
+https://www.wanted.co.kr/gigs/projects/7951,통합 CMS,,,KRW,웹 개발,Java;API,상주,,,,CMS;콘텐츠 관리;통합 시스템,"통합 CMS(콘텐츠 관리 시스템) 개발 프로젝트. Java, API 스킬 필요."
+https://www.wanted.co.kr/gigs/projects/8391,[카카오모빌리티] B2B 어드민 웹 프로그램 UI/UX 디자인,,,KRW,UI/UX 디자인,Slack;Figma,원격/상주,,,,어드민;관리자 페이지;B2B;UI/UX,"카카오모빌리티 B2B 어드민 웹 프로그램 UI/UX 디자인 프로젝트. Slack, Figma 스킬 필요."
+https://www.wanted.co.kr/gigs/projects/9301,홈페이지 로그인 개편 및 버그픽스,100,300,KRW,웹 개발,ASP;MSSQL,원격,1개월,,,로그인 개편;버그픽스;유지보수;관리,"홈페이지 로그인 개편 및 버그픽스 프로젝트. 예상 금액 100-300만원, 1개월 기간. ASP, MSSQL 스킬 필요."

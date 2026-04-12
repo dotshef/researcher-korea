@@ -1,0 +1,17 @@
+﻿source_platform,source_url,pain_target,pain_detail,desired_solution,alternatives_mentioned,cluster_id,cluster_name,opportunity_score,key_quote
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/5795,[추정] AI OCR 서비스 도입 검토 기업,[추정] AI OCR 기능 시연을 위한 데모 사이트 부재,AI OCR 데모 사이트 구축,HTML;JavaScript;React,4,컴퓨터 비전/머신러닝 특화,40,AI OCR 데모 사이트 구축 프로젝트.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/7191,[추정] 자율주행 SaaS SW 서비스 운영사,[추정] 자율주행 SaaS SW Frontend 개발 인력 부재,자율주행 SaaS SW 관련 Frontend 개발,HTML;JavaScript,6,SaaS/구독형 서비스,19,자율주행 SaaS SW 관련 Frontend 개발 프로젝트.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/10277,KDT AI 교육과정 수강생,[추정] AI 교육과정 멘토 인력 부재,KDT AI 교육과정 멘토 프리랜서,Python;SQL,1,AI 챗봇/대화형 에이전트,53,KDT AI 교육과정 멘토 프리랜서 모집.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/9678,롤 매니지먼트 게임 운영사,[추정] 게임 데이터 분석 인력 부재,롤 매니지먼트 게임 데이터 분석,데이터 분석,5,SI/기업 시스템 개발,39,롤 매니지먼트 게임 데이터 분석가 모집.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/11210,[추정] 정보보호 관련 기관/기업,[추정] 정보보호모니터링시스템 구축 필요,정보보호모니터링시스템 개발(오픈소스 기반) SI,Git;AngularJS,5,SI/기업 시스템 개발,39,인천 청라 정보보호모니터링시스템 개발 SI 프로젝트.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/10491,[추정] 앱 서비스 운영사,[추정] 앱 백엔드 개발 인력 부재,앱 백엔드 개발,Node.js,7,기타 외주 프로젝트,23,앱 백엔드 개발자 모집. Node.js 기술 필요.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/8727,[추정] 서비스 포트폴리오 필요 기업,[추정] 서비스 포트폴리오 제작 역량 부재,서비스 포트폴리오 제작,Adobe Photoshop;Figma,7,기타 외주 프로젝트,23,서비스 포트폴리오 제작 프로젝트.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/8397,[추정] 카페24 일본 스토어 운영자,[추정] 일본결제 PG모듈 연동 필요,카페24 스토어내 일본결제 PG모듈 연동,JavaScript,7,기타 외주 프로젝트,23,카페24 스토어내 일본결제 PG모듈 연동 프로젝트.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/5740,NH농협캐피탈,[추정] 디지털 채널 확대 필요,"NH농협캐피탈 디지털 채널 확대를 위한 앱, 웹 구축",웹 서비스;모바일 인터페이스 디자인,5,SI/기업 시스템 개발,39,"NH농협캐피탈 디지털 채널 확대를 위한 앱, 웹 구축 프로젝트."
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/8571,[추정] 2차전지 관련 기업,[추정] 2차전지 SW개발 및 유지보수 인력 부재,2차전지 SW개발 및 유지보수,C#;C++,5,SI/기업 시스템 개발,39,2차전지 SW개발 및 유지보수 프로젝트.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/6928,[추정] 단기 알바 매칭 플랫폼 운영사,[추정] 플랫폼 하자보수 관리 필요,단기 알바 매칭 플랫폼 하자보수 관리,Firebase;Node.js,7,기타 외주 프로젝트,23,단기 알바 매칭 플랫폼 하자보수 관리 프로젝트.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/5542,[추정] 리눅스 인프라 운영 기업,[추정] 리눅스 엔지니어 인력 부재,리눅스 엔지니어 상주 근무,Linux;CentOS,5,SI/기업 시스템 개발,39,리눅스 엔지니어 모집. 여의도 근무.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/11694,[추정] 인사 시스템 도입 기업,[추정] 인사 시스템 ERP 개발 필요,인사 시스템 ERP 프론트엔드 개발,ERP;Git,5,SI/기업 시스템 개발,39,인사 시스템 ERP 개발 프론트엔드 프로젝트.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/11421,[추정] SI 프로젝트 수행 기업,[추정] SI 프론트엔드 개발 인력 부재,SI 프론트엔드 개발,React Native;Flutter,5,SI/기업 시스템 개발,39,SI 프론트엔드 개발자 모집. 서초구 근무.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/10882,[추정] 농협,[추정] 농협 프로젝트 SI 개발 인력 부재,농협 프로젝트 개발 SI,Java,5,SI/기업 시스템 개발,39,인덕원 농협 프로젝트 개발 SI. Java 기술 필요.
+wanted-gigs,https://www.wanted.co.kr/gigs/projects/4250,(주)로아프롭테크,[추정] 프롭테크 관련 개발 필요,[추정] 프롭테크 서비스 개발,,7,기타 외주 프로젝트,23,로아프롭테크 프로젝트. 예산 100-300만원(프로젝트 기반). 기간 2주.

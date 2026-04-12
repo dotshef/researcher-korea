@@ -1,0 +1,9 @@
+﻿source_platform,source_url,pain_target,pain_detail,desired_solution,alternatives_mentioned,cluster_id,cluster_name,opportunity_score,key_quote
+wishket,https://www.wishket.com/project/144987/,쿠팡 셀러,매출 데이터 분석 및 운영 효율화를 위한 통합 관리 도구 부재,웹 기반 통합 관리 SaaS 플랫폼 구축,,1,SaaS 플랫폼 신규 구축,0.73,쿠팡 셀러를 위한 웹 기반 통합 관리 SaaS 솔루션. 매출 데이터 분석 및 운영 효율화를 목표로 하는 플랫폼 구축 프로젝트.
+wishket,https://www.wishket.com/project/140253/,SaaS 개발사/구매자,SaaS 개발사와 구매자를 연결하는 중개 플랫폼 부재,SaaS 마켓플레이스 홈페이지 구축 (견적 요청 기능 포함),,1,SaaS 플랫폼 신규 구축,0.73,SaaS 개발사가 서비스를 소개하고 구매자가 견적을 요청할 수 있는 SaaS 마켓플레이스 홈페이지 구축.
+wishket,https://www.wishket.com/project/152055/,SaaS 서비스 운영사,AWS 인프라 비용 과다 발생,AWS 아키텍처 다운사이징 및 Java 백엔드 경량화,,2,기존 SaaS 개선/운영,0.3,인프라 비용 절감을 위한 AWS 아키텍처 다운사이징 및 Java 백엔드 경량화 프로젝트. SaaS 서비스의 운영 비용 최적화 목적.
+wishket,https://www.wishket.com/project/104632/,커머스 SaaS 운영사,기존 커머스 SaaS API 기능 부족 및 성능 문제,API 개선 및 신규 기능 구현,,2,기존 SaaS 개선/운영,0.3,SaaS 형 커머스 서비스의 API 개선 및 신규 기능 구현 프로젝트. 기존 커머스 SaaS 플랫폼의 기능 확장 및 성능 개선.
+wishket,https://www.wishket.com/project/120480/,초기 스타트업 팀,일정/노트/업무 통합 관리 B2B SaaS 툴의 시스템 디자인 필요,B2B SaaS 업무관리 툴 시스템 디자인 (UI/UX),,3,AI/특화 SaaS 프론트엔드,0.27,"일정, 노트, 업무 관리를 통합한 B2B SaaS 업무관리 툴의 시스템 디자인. 초기 스타트업 팀에서 개발 중인 프로젝트."
+wishket,https://www.wishket.com/project/116575/,금형 산업 사업자,금형 산업을 위한 클라우드 기반 관리 시스템 부재,클라우드 기반 SaaS 관리자 웹 페이지 및 서버 구축,,1,SaaS 플랫폼 신규 구축,0.73,금형 산업을 위한 클라우드 기반 SaaS 시스템의 관리자 웹 페이지 및 서버 구축 프로젝트. 다양한 소프트웨어 솔루션 포함.
+wishket,https://www.wishket.com/project/131519/,[추정] 레거시 시스템 운영사,MSSQL + Classic ASP 기반 레거시 시스템 유지보수 필요,MSSQL + Classic ASP 개발 및 유지보수,,2,기존 SaaS 개선/운영,0.3,MSSQL + Classic ASP 기반 시스템 개발 및 유지보수 프로젝트. SaaS 관련 검색 결과로 노출.
+wishket,https://www.wishket.com/project/133048/,[추정] AI/SaaS 서비스 운영사,LLM 기반 서비스의 프론트엔드 개발 필요,LLM 기반 서비스 Frontend 개발,,3,AI/특화 SaaS 프론트엔드,0.27,LLM 기반 서비스의 프론트엔드 개발 프로젝트. AI/SaaS 서비스 관련.
