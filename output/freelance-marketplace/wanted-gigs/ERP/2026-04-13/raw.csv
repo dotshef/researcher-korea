@@ -1,0 +1,5 @@
+﻿url,title,budget_min,budget_max,currency,category,skills,region,duration,applicants,date,pain_signals,content
+https://www.wanted.co.kr/gigs/projects/11694,인사 시스템 ERP 개발 - 프론트엔드,,,KRW,웹,ERP;Git;React;TypeScript;Redux;UX/UI Design,상주/서울 강남구 신사동,18개월,,,ERP;인사시스템;프론트엔드,"인사 시스템 ERP 개발 프론트엔드 포지션. 강남구 신사동 상주, 09-18시 근무. 기술스택: ERP, Git, React, TypeScript, 반응형 웹, UX/UI Design, Redux. 예상 기간 18개월."
+https://www.wanted.co.kr/gigs/projects/8159,[파이썬 기반 백엔드] ERP 시스템 추가 개발,,,KRW,웹,Django;Python,상주,,,,ERP;백엔드;Python;Django,"파이썬 기반 백엔드 ERP 시스템 추가 개발 프로젝트. 기술스택: Django, Python. 상주 근무."
+https://www.wanted.co.kr/gigs/projects/12221,[마포] 사내 ERP 솔루션 백엔드 Go/SQL 개발,,,KRW,웹,SQL 서버;Golang,원격/상주/서울 마포구,4개월,,,ERP;솔루션;백엔드;Golang;SQL,"서울 마포구 사내 ERP 솔루션 백엔드 Go/SQL 개발 프로젝트. 원격/상주 혼합 근무. 예상 기간 4개월. 기술스택: SQL Server, Golang."
+https://www.wanted.co.kr/gigs/projects/6338,자사몰과 ECOUNT 측의 ERP 연동용 API 개발,,,KRW,웹,WordPress;JSON,원격,,,,ERP;연동;API;ECOUNT;자사몰;WordPress,"자사몰과 ECOUNT ERP 연동용 API 개발 프로젝트. 원격 근무. 기술스택: WordPress, JSON. 이카운트(ECOUNT) ERP와 자사 쇼핑몰 간의 API 연동 개발."

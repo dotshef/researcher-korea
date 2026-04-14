@@ -1,0 +1,18 @@
+url,title,budget_min,budget_max,currency,category,skills,region,duration,applicants,date,pain_signals,content
+https://www.wishket.com/project/127517/,오라클 ERP 영업 운영 개발,,,KRW,웹,Oracle ERP,,,,,ERP;Oracle;영업운영,"Oracle ERP 영업 운영 개발 프로젝트. 오라클 ERP 시스템을 활용한 영업 운영 개발로, 월 600만원 예산 규모의 프로젝트."
+https://www.wishket.com/project/115285/,ERP(SAP) HR 데이터 추출 및 이관 개발,,,KRW,웹,SAP;ABAP;ERP;HR,,,,,ERP;SAP;HR데이터;데이터이관;ABAP,SAP ERP HR 데이터 추출 및 이관 개발 프로젝트. ABAP 언어를 사용하여 SAP ERP에서 다른 시스템으로 HR 데이터를 추출 및 이관하는 개발 작업.
+https://www.wishket.com/project/131075/,웹ERP 로그인/메인/업무 화면 및 기능 3종 샘플 개발,,,KRW,웹,웹ERP;프론트엔드,,,,,ERP;웹전환;CS기반;샘플개발;로그인화면,"기존 CS 기반 ERP를 웹 ERP로 전환하기 위한 샘플 개발 프로젝트. 로그인, 메인, 업무 화면 및 기능 3종의 샘플 개발 의뢰."
+https://www.wishket.com/project/129402/,유통 ERP JAVA/SPRING BOOT 백엔드 개발,,,KRW,웹,Java;Spring Boot;ERP;백엔드,,,,,ERP;유통;Java;SpringBoot;백엔드,유통 ERP 시스템을 위한 Java/Spring Boot 기반 백엔드 개발 프로젝트.
+https://www.wishket.com/project/135464/,웹 기반 ERP 프로그램 구축,,,KRW,웹,웹ERP;고객관리;출하관리;렌탈,,,,,ERP;웹기반;구축;고객관리;출하;렌탈;건강보험청구,"매장 운영을 위한 웹 기반 ERP 프로그램 구축 프로젝트. 고객 관리, 출하, 렌탈 제품 및 건강보험 청구 기능 포함."
+https://www.wishket.com/project/99336/,기존 ERP 프런트 개편을 위한 기획/디자인/React 기반 화면 개발,,,KRW,웹,React;프론트엔드;ERP;UI/UX,,,,,ERP;프론트개편;React;기획;디자인;화면개발,기존 ERP 시스템의 프론트엔드 개편을 위한 기획/디자인/React 기반 화면 개발 프로젝트.
+https://www.wishket.com/project/91548/,ASP 기반 ERP 이미지 압축 업로드 기능 구현 및 모바일앱 개발,,,KRW,앱,ASP;ERP;모바일앱;이미지압축,,,,,ERP;ASP;이미지압축;모바일앱;업로드,ASP 기반 ERP 시스템에 이미지 압축 업로드 기능 구현 및 모바일 앱 개발 프로젝트.
+https://www.wishket.com/project/121729/,웹 기반 ERP 시스템 구축,,,KRW,웹,웹ERP;시스템구축,,,,,ERP;웹기반;시스템구축;맞춤형,회사 특정 운영에 맞춤화된 웹 기반 ERP 신규 시스템 구축 프로젝트.
+https://www.wishket.com/project/134411/,골프장 자체 ERP 운영 관리 시스템 구축 및 관리,,,KRW,웹,ERP;골프장관리;운영시스템,,,,,ERP;골프장;운영관리;자체시스템;구축,골프장 자체 ERP 운영 관리 시스템 구축 및 운영 관리 프로젝트.
+https://www.wishket.com/project/106042/,쌍용건설 ERP 구축 프로젝트 3자 테스트,,,KRW,웹,ERP;QA;테스트,,,,,ERP;건설;구축;3자테스트;QA,쌍용건설 ERP 구축 프로젝트의 3자 테스트 의뢰. 프로그램 개발 단계이며 9월 말 완료 예정.
+https://www.wishket.com/project/113693/,렌터카 운영시스템(ERP) 구축,,,KRW,웹,ERP;렌터카;운영시스템,,,,,ERP;렌터카;운영시스템;구축,렌터카 운영 전용 ERP 구축 프로젝트. 현재 업무 절차 준비 중.
+https://www.wishket.com/project/similar-case-search/share/JWcijxHLJmd0qCbt/,대리점-본사 연계 통합 ERP/SCM 웹 시스템 구축,,,KRW,웹,ERP;SCM;웹시스템;통합,,,,,ERP;SCM;대리점;본사연계;통합;실시간데이터,대리점과 본사를 연결하는 통합 ERP/SCM 웹 시스템 구축 프로젝트. 사용자 친화적 인터페이스와 실시간 데이터 공유 및 관리 기능 포함.
+https://www.wishket.com/project/similar-case-search/share/oRpvlVgICJYXjgOd/,ERP 구축,,,KRW,웹,ERP,,,,2025-03-18,ERP;구축;요구사항정의;프로세스매핑;데이터이관;시스템연동;사용자교육,"ERP 시스템 구축 프로젝트. 요구사항 정의 및 분석, 사용자 요구사항 수집 및 프로세스 매핑, 데이터 마이그레이션 및 시스템 통합 계획, 사용자 교육 및 지원 방안, 프로젝트 일정 및 예산 관리 포함."
+https://www.wishket.com/project/similar-case-search/share/ymPyAH8GdNw76jpY/,ECOUNT ERP API 개발,,,KRW,웹,ECOUNT ERP;API;인증;보안,,,,2025-05-15,ERP;ECOUNT;API연동;데이터송수신;사용자인증;보안;API문서화,"ECOUNT ERP 시스템과의 API 연동 개발 프로젝트. 데이터 송수신 프로세스 설계, 사용자 인증 및 보안 구현, API 문서화 및 테스트 계획, 개발 일정 및 유지보수 계획 포함."
+https://www.wishket.com/project/similar-case-search/share/UsTAqUCytySTcWey/,구축 비용 13억 규모의 공공기관 ERP 사례,130000,130000,KRW,웹,ERP;공공기관;시스템통합,,,,,ERP;공공기관;대형구축;13억;설계;개발;구현;유지보수;업무효율화;데이터최적화,"13억 규모의 공공기관 ERP 구축 사례 프로젝트. 시스템 설계, 개발, 구현 및 유지보수 포함. 업무 효율 향상 및 데이터 관리 최적화 기대 효과."
+https://www.wishket.com/project/similar-case-search/share/oUHcrMXgO8O9NRel/,ERP와 연동하여 정보를 입력하고 결과를 업로드 해주는 앱 개발,,,KRW,앱,ERP;모바일앱;연동;자동업로드,,,,,ERP;앱연동;정보입력;결과업로드;자동화,ERP 시스템과 연동하여 정보를 입력하고 결과를 자동으로 업로드하는 앱 개발 프로젝트.
+https://www.wishket.com/project/60094/,SKT 통합 API Hub 구축,,,KRW,웹,API;Hub;SKT;시스템통합,,,,,API;Hub;SKT;통합;ERP연동,SKT 통합 API Hub 구축 프로젝트. ERP 구축 검색 결과에 포함된 시스템 통합 관련 프로젝트.

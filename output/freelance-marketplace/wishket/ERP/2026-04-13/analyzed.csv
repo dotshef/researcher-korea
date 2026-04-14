@@ -1,0 +1,18 @@
+source_platform,source_url,pain_target,pain_detail,desired_solution,alternatives_mentioned,cluster_id,cluster_name,opportunity_score,key_quote
+wishket,https://www.wishket.com/project/127517/,일반 기업,"Oracle ERP 영업 운영 개발 프로젝트. 오라클 ERP 시스템을 활용한 영업 운영 개발로, 월 600만원 예산 규모의 프로젝트.",ERP 신규 구축,Oracle,C2,ERP 신규 구축,55,Oracle ERP 영업 운영 개발 프로젝트
+wishket,https://www.wishket.com/project/115285/,HR 업종,SAP ERP HR 데이터 추출 및 이관 개발 프로젝트. ABAP 언어를 사용하여 SAP ERP에서 다른 시스템으로 HR 데이터를 추출 및 이관하는 개발 작업.,ERP-외부시스템 연동/API,SAP,C3,ERP-외부시스템 연동/API,55,SAP ERP HR 데이터 추출 및 이관 개발 프로젝트
+wishket,https://www.wishket.com/project/131075/,일반 기업,"기존 CS 기반 ERP를 웹 ERP로 전환하기 위한 샘플 개발 프로젝트. 로그인, 메인, 업무 화면 및 기능 3종의 샘플 개발 의뢰.",웹 전환/프론트 개편,,C1,웹 전환/프론트 개편,41,기존 CS 기반 ERP를 웹 ERP로 전환하기 위한 샘플 개발 프로젝트
+wishket,https://www.wishket.com/project/129402/,유통 업종,유통 ERP 시스템을 위한 Java/Spring Boot 기반 백엔드 개발 프로젝트.,ERP 백엔드 개발,,C5,ERP 백엔드 개발,41,유통 ERP 시스템을 위한 Java/Spring Boot 기반 백엔드 개발 프로젝트
+wishket,https://www.wishket.com/project/135464/,일반 기업,"매장 운영을 위한 웹 기반 ERP 프로그램 구축 프로젝트. 고객 관리, 출하, 렌탈 제품 및 건강보험 청구 기능 포함.",ERP 신규 구축,,C2,ERP 신규 구축,67,매장 운영을 위한 웹 기반 ERP 프로그램 구축 프로젝트
+wishket,https://www.wishket.com/project/99336/,일반 기업,기존 ERP 시스템의 프론트엔드 개편을 위한 기획/디자인/React 기반 화면 개발 프로젝트.,웹 전환/프론트 개편,,C1,웹 전환/프론트 개편,44,기존 ERP 시스템의 프론트엔드 개편을 위한 기획/디자인/React 기반 화면 개발 프로젝트
+wishket,https://www.wishket.com/project/91548/,일반 기업,ASP 기반 ERP 시스템에 이미지 압축 업로드 기능 구현 및 모바일 앱 개발 프로젝트.,ERP 모바일 연동 앱,ASP,C6,ERP 모바일 연동 앱,34,ASP 기반 ERP 시스템에 이미지 압축 업로드 기능 구현 및 모바일 앱 개발 프로젝트
+wishket,https://www.wishket.com/project/121729/,일반 기업,회사 특정 운영에 맞춤화된 웹 기반 ERP 신규 시스템 구축 프로젝트.,ERP 신규 구축,,C2,ERP 신규 구축,58,회사 특정 운영에 맞춤화된 웹 기반 ERP 신규 시스템 구축 프로젝트
+wishket,https://www.wishket.com/project/134411/,골프장 업종,골프장 자체 ERP 운영 관리 시스템 구축 및 운영 관리 프로젝트.,ERP 신규 구축,,C2,ERP 신규 구축,61,골프장 자체 ERP 운영 관리 시스템 구축 및 운영 관리 프로젝트
+wishket,https://www.wishket.com/project/106042/,건설 업종,쌍용건설 ERP 구축 프로젝트의 3자 테스트 의뢰. 프로그램 개발 단계이며 9월 말 완료 예정.,ERP 신규 구축,,C2,ERP 신규 구축,61,쌍용건설 ERP 구축 프로젝트의 3자 테스트 의뢰
+wishket,https://www.wishket.com/project/113693/,렌터카 업종,렌터카 운영 전용 ERP 구축 프로젝트. 현재 업무 절차 준비 중.,ERP 신규 구축,,C2,ERP 신규 구축,58,렌터카 운영 전용 ERP 구축 프로젝트
+wishket,https://www.wishket.com/project/similar-case-search/share/JWcijxHLJmd0qCbt/,일반 기업,대리점과 본사를 연결하는 통합 ERP/SCM 웹 시스템 구축 프로젝트. 사용자 친화적 인터페이스와 실시간 데이터 공유 및 관리 기능 포함.,ERP 신규 구축,,C2,ERP 신규 구축,65,대리점과 본사를 연결하는 통합 ERP/SCM 웹 시스템 구축 프로젝트
+wishket,https://www.wishket.com/project/similar-case-search/share/oRpvlVgICJYXjgOd/,일반 기업,"ERP 시스템 구축 프로젝트. 요구사항 정의 및 분석, 사용자 요구사항 수집 및 프로세스 매핑, 데이터 마이그레이션 및 시스템 통합 계획, 사용자 교육 및 지원 방안, 프로젝트 일정 및 예산 관리 포함.",ERP-외부시스템 연동/API,,C3,ERP-외부시스템 연동/API,62,"요구사항 정의 및 분석, 사용자 요구사항 수집 및 프로세스 매핑, 데이터 마이그레이션 및 시스템 통합 계획, 사용자 교육 및 지원 방안, 프로젝트 일정 및 예산 관리 포함"
+wishket,https://www.wishket.com/project/similar-case-search/share/ymPyAH8GdNw76jpY/,일반 기업,"ECOUNT ERP 시스템과의 API 연동 개발 프로젝트. 데이터 송수신 프로세스 설계, 사용자 인증 및 보안 구현, API 문서화 및 테스트 계획, 개발 일정 및 유지보수 계획 포함.",ERP-외부시스템 연동/API,ECOUNT,C3,ERP-외부시스템 연동/API,61,ECOUNT ERP 시스템과의 API 연동 개발 프로젝트
+wishket,https://www.wishket.com/project/similar-case-search/share/UsTAqUCytySTcWey/,공공기관 업종,"13억 규모의 공공기관 ERP 구축 사례 프로젝트. 시스템 설계, 개발, 구현 및 유지보수 포함. 업무 효율 향상 및 데이터 관리 최적화 기대 효과.",ERP 신규 구축,,C2,ERP 신규 구축,100,13억 규모의 공공기관 ERP 구축 사례 프로젝트
+wishket,https://www.wishket.com/project/similar-case-search/share/oUHcrMXgO8O9NRel/,일반 기업,ERP 시스템과 연동하여 정보를 입력하고 결과를 자동으로 업로드하는 앱 개발 프로젝트.,ERP 모바일 연동 앱,,C6,ERP 모바일 연동 앱,34,ERP 시스템과 연동하여 정보를 입력하고 결과를 자동으로 업로드하는 앱 개발 프로젝트
+wishket,https://www.wishket.com/project/60094/,SKT 업종,SKT 통합 API Hub 구축 프로젝트. ERP 구축 검색 결과에 포함된 시스템 통합 관련 프로젝트.,ERP-외부시스템 연동/API,,C3,ERP-외부시스템 연동/API,54,SKT 통합 API Hub 구축 프로젝트
